@@ -1,1 +1,1 @@
-Solution to the Australian Credit Card approval problem.
+Solution to the Hackathon Problems.
